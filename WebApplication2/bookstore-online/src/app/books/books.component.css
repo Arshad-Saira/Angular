@@ -1,0 +1,41 @@
+.center {
+	display: block;
+	margin: auto;
+	width: 50%;
+}
+
+p.para{
+	padding: 5px 25px;
+}
+table{
+	border-collapse: collapse;
+	padding: 12px;
+	width: 70%;
+	}
+th, td, tr{
+	padding: 12px;
+	width: 25%;
+}		
+.centerTable {
+	margin: auto;
+}
+tr:nth-child(odd){
+	background-color: #eda839;
+}
+.load a{
+	color: black;
+	float:right;
+	text-decoration: none;
+}
+.load .active{
+	color: #eda839;
+}
+h1
+{
+	text-align: center;
+}
+hr{
+	border: 1px solid #ededeb;
+	width: 75%;
+	margin-top: 30px;
+}

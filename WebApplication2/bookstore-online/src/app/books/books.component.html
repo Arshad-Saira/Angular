@@ -1,0 +1,45 @@
+<section>
+    <h1>Featured Books</h1>
+    <img src="../assets/reclaimYourHeart.png" alt="Book Cover Image" class="center" />
+    <p class="para">
+      <strong>Reclaim Your Heart</strong> is not just a self-help book. 
+		It is a manual about the journey of the heart in 
+		and out of the ocean of this life. It is a book about
+		how to keep your heart from sinking to the depths of
+		that ocean, and what to do when it does.</p><p class="para"> It is a book
+		about redemption, about hope, about renewal. Every heart
+		can heal, and each moment is created to bring us closer 
+		to that transformative return. Reclaim Your Heart is 
+		about finding that moment when everything stopsand 
+		suddenly looks different. It is about finding your own
+		awakening. And then returning to the better, truer, and
+		freer version of yourself.
+    </p>
+    <hr>
+    <h1>List of Books</h1>
+    <table id="books" class="centerTable">
+      <thead>
+        <tr class="tableHeader">
+          <th>Id</th>
+          <th>Title</th>
+          <th>Author</th>
+          <th>Description</th>
+          <th>ImageUrl</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let book of books">
+          <td>{{ book.id }}</td>
+          <td>{{ book.title }}</td>
+          <td>{{ book.author }}</td>
+          <td>{{ book.description }}</td>
+          <td>{{ book.imageUrl }}</td>
+        </tr>
+      </tbody>
+    </table>
+    <span class="load">
+      <a href="#" class="active" (click)="loadMore()">Load more..</a>
+    </span>
+  </section>
+  <hr>
+  

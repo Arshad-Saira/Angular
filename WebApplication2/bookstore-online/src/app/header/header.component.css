@@ -1,0 +1,41 @@
+header{	
+	background-color:#eda839;
+	text-align: center;	
+	padding: 50px 100px;
+	font-weight: bold;
+	font-size: 30px;
+}
+nav{
+	overflow: hidden;
+	background-color: #a87728;
+	
+}
+nav a{
+	float: left;
+	text-align:center;
+	padding: 20px 45px;
+	font-size: 18px;
+	color: #000;
+	text-decoration: none;
+}
+nav a:hover{
+	background-color: #784d08;
+	color: #fff;
+}
+.search{
+	float: right;
+	margin: 0 25px 0 0;
+	overflow:hidden;
+	line-height: 60px;
+}
+.search input{
+	font-size:13px;
+	border: none;
+	border-radius:5px;
+	padding: 8px;
+	float: right;
+}
+.active{
+	background-color: #784d08;
+	color: #fff;
+}

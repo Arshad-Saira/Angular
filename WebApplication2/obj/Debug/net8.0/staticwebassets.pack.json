@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\bookstore-online\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\browser\\favicon.ico",
+      "PackagePath": "staticwebassets\\bookstore-online\\browser\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\browser\\index.csr.html",
+      "PackagePath": "staticwebassets\\bookstore-online\\browser\\index.csr.html"
+    },
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\browser\\index.html",
+      "PackagePath": "staticwebassets\\bookstore-online\\browser\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\browser\\main-TCBY3LPL.js",
+      "PackagePath": "staticwebassets\\bookstore-online\\browser\\main-TCBY3LPL.js"
+    },
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\browser\\polyfills-SCHOHYNV.js",
+      "PackagePath": "staticwebassets\\bookstore-online\\browser\\polyfills-SCHOHYNV.js"
+    },
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\browser\\styles-36M4IP6S.css",
+      "PackagePath": "staticwebassets\\bookstore-online\\browser\\styles-36M4IP6S.css"
+    },
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\prerendered-routes.json",
+      "PackagePath": "staticwebassets\\bookstore-online\\prerendered-routes.json"
+    },
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\server\\chunk-5XUXGTUW.mjs",
+      "PackagePath": "staticwebassets\\bookstore-online\\server\\chunk-5XUXGTUW.mjs"
+    },
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\server\\chunk-7YC4RJ5P.mjs",
+      "PackagePath": "staticwebassets\\bookstore-online\\server\\chunk-7YC4RJ5P.mjs"
+    },
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\server\\chunk-H7PFFZ34.mjs",
+      "PackagePath": "staticwebassets\\bookstore-online\\server\\chunk-H7PFFZ34.mjs"
+    },
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\server\\chunk-XYTDMPZ7.mjs",
+      "PackagePath": "staticwebassets\\bookstore-online\\server\\chunk-XYTDMPZ7.mjs"
+    },
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\server\\index.server.html",
+      "PackagePath": "staticwebassets\\bookstore-online\\server\\index.server.html"
+    },
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\server\\main.server.mjs",
+      "PackagePath": "staticwebassets\\bookstore-online\\server\\main.server.mjs"
+    },
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\server\\polyfills.server.mjs",
+      "PackagePath": "staticwebassets\\bookstore-online\\server\\polyfills.server.mjs"
+    },
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\server\\render-utils.server.mjs",
+      "PackagePath": "staticwebassets\\bookstore-online\\server\\render-utils.server.mjs"
+    },
+    {
+      "Id": "C:\\Users\\5592\\Documents\\Code\\assignments\\Project2\\WebApplication2\\wwwroot\\bookstore-online\\server\\server.mjs",
+      "PackagePath": "staticwebassets\\bookstore-online\\server\\server.mjs"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication2.props",
+      "PackagePath": "build\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication2.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication2.props",
+      "PackagePath": "buildTransitive\\WebApplication2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

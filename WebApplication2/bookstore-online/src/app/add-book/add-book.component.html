@@ -1,0 +1,17 @@
+<section class="bookadd">
+    <h1>Add Book</h1>
+    <form (ngSubmit)="addBook()">
+      <label>Title</label>
+      <input type="text" [(ngModel)]="book.title" name="title" placeholder="Enter title.."><br>
+      <label>Author</label>
+      <input type="text" [(ngModel)]="book.author" name="author" placeholder="Enter author..">
+      <label>Image Url</label>
+      <input type="text" [(ngModel)]="book.imageUrl" name="imageUrl" placeholder="Enter image url..">
+      <label>Price</label>
+      <input type="text" [(ngModel)]="book.price" name="price" placeholder="Enter price..">
+      <label>Description</label>
+      <textarea [(ngModel)]="book.description" name="description" placeholder="Enter description.."></textarea>
+      <button type="submit">Submit</button>
+    </form>
+  </section><hr>
+  

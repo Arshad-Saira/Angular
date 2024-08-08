@@ -1,0 +1,13 @@
+<section>
+    <h1>Customer Reviews</h1>
+    <!--
+    <div class="container" *ngFor="let review of reviews">
+      <p>{{ review.text }} - Rating: {{ review.rating }}</p>
+    </div> -->  
+    <div class="container" *ngFor="let review of reviews">
+      <img src="../../assets/avatar.png" alt="Avatar">
+      <p><span>{{ review.name }}</span></p>
+      <p>{{ review.comment }}</p>
+    </div>
+  </section><hr>
+  
